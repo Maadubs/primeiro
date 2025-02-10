@@ -1,3 +1,3 @@
 pi = 3.1415
 r = int(input('Raio: '))
-print(pi*r**2)
+print('Área do círculo:', pi * r ** 2)
